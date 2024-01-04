@@ -15,7 +15,7 @@ PostgreSQL is then loaded with this data that undergoes data modeling and execut
 
 Another ETL process takes place using Apache PySpark which process the relational data, including tasks like parsing JSON strings and consolidating information into a single table. The transformed data is efficiently stored in Hadoop Distributed File System (HDFS) as Parquet format. Hive retrieves data from HDFS, allowing querying and analyzing the data and completes the journey of transforming raw EdTech Company data into a refined, accessible format that provide valuable insights through analysis.
 
-https://github.com/riti215/EdtechDataMigration/blob/440237963d046f5964ba87bccb8c04a8896e8c84/EdtechDataProcessing.ipynb
+Source Code : https://github.com/riti215/EdtechDataMigration/blob/440237963d046f5964ba87bccb8c04a8896e8c84/EdtechDataProcessing.ipynb
 
 # Technology used
 1. Programming Language - Python, SQL
