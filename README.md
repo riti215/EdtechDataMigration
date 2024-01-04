@@ -6,7 +6,8 @@ The idea of this project is to showcase the migration of data from a traditional
 Starting with Talend Studio, the process extracts source data from a CSV folder, performs data mapping and lookups between fact and dimension tables. Next, the data is formatted, and the schema for the PostgreSQL database is defined. 
 ![talend_edtech](https://github.com/riti215/EdtechDataMigration/assets/57587827/d903d711-8651-430a-b7ce-9fe2e27ec35e)
 
-PostgreSQL is then loaded with this data that undergoes data modeling and execution of some DDL/DML commands to establish its relational structure. 
+PostgreSQL is then loaded with this data that undergoes data modeling and execution of some DDL/DML commands to establish its relational structure.
+
 ![psql_edtech](https://github.com/riti215/EdtechDataMigration/assets/57587827/e6957ea7-6c78-413c-9c8a-9186860d3d65)
 
 # Data Model
